@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="film_details_default_padding">17dp</dimen>
+    <dimen name="film_details_text_size">27sp</dimen>
+    <dimen name="film_text_size">17sp</dimen>
+    <dimen name="title_size">27sp</dimen>
+    <dimen name="recyclerview_padding">7dp</dimen>
+    <dimen name="recyclerview_image_width">150dp</dimen>
+    <dimen name="recyclerview_image_height">200dp</dimen>
+</resources>
